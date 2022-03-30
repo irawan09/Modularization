@@ -1,0 +1,4 @@
+<resources>
+    <string name="welcome_to_feature_b">Welcome To Feature B</string>
+    <string name="go_to_feature_main">Go to Feature Main</string>
+</resources>

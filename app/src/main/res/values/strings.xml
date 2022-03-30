@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Modularization</string>
+    <string name="to_feature_a">To Feature A</string>
+    <string name="to_feature_b">To Feature B</string>
+</resources>
